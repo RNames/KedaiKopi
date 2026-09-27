@@ -25,6 +25,7 @@ com\mycompany\kedaikopi\event\ComboBoxHarga$2.class
 com\mycompany\kedaikopi\layout\BoxLayoutKopi$1.class
 com\mycompany\kedaikopi\event\ButtonJumlahCangkir$2.class
 com\mycompany\kedaikopi\event\ComboBoxHarga.class
+com\mycompany\kedaikopigui\event\RadioButtonUkuran.class
 com\mycompany\kedaikopi\KedaiKopi.class
 com\mycompany\kedaikopi\event\CheckBoxTambahan$6.class
 com\mycompany\kedaikopi\layout\CardLayoutPesan$3.class
@@ -35,6 +36,7 @@ com\mycompany\kedaikopi\event\CheckBoxTambahan$3.class
 com\mycompany\kedaikopi\layout\FlowLayoutTambahan.class
 FrameSelamatDatang$1.class
 FrameSelamatDatang.class
+com\mycompany\kedaikopigui\event\TableDaftarPesanan.class
 com\mycompany\kedaikopi\layout\BoxLayoutKopi$3.class
 FramePesanDialog$1.class
 com\mycompany\kedaikopi\layout\BorderLayoutMenu$1.class
