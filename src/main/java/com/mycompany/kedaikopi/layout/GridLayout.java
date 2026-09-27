@@ -43,7 +43,7 @@ public class GridLayout extends javax.swing.JFrame {
         jButton3.setText("Cappuccino");
         getContentPane().add(jButton3);
 
-        jButton4.setText("jButton4");
+        jButton4.setText("Espresso");
         jButton4.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton4ActionPerformed(evt);
